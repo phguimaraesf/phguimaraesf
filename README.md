@@ -1,92 +1,78 @@
-# 👨🏻‍💻 Pedro Henrique Guimarães Ferreira
+# 👨🏻‍💻 **Pedro Henrique Guimarães Ferreira**  
+*Estudante de Análise de Dados*
 
-**`Estudante de Análise de Dados`**
+Olá! Eu sou o **Pedro Henrique Guimarães Ferreira**, natural de **Teixeira de Freitas, Bahia**, e atualmente estou me especializando em **Análise de Dados**. Sou apaixonado por **transformar dados em insights**, e acredito que a análise de dados é a chave para desbloquear o futuro das empresas.
 
-Olá, sou **Pedro Henrique Guimarães Ferreira**, natural de **Teixeira de Freitas, Bahia**. Atualmente, sou estudante de **Análise de Dados** e estou me aprofundando em várias ferramentas e linguagens essenciais para a área, como **Excel**, **SQL**, **Power BI**, **Python** e **Git**.
+📊 **Minhas áreas de interesse**:
+- 📈 **Business Intelligence**  
+- 💻 **Análise de Dados**  
+- 🔍 **SQL** & **Python**  
+- 📊 **Power BI** & **Excel**  
+- ⚙️ **Git & Versionamento de Código**
 
-Sou apaixonado por **dados** e como podemos extrair insights valiosos a partir deles. Acredito que a **transformação digital** e a **análise de dados** são fundamentais para o desenvolvimento das empresas e da sociedade. Além de estudar, procuro sempre me atualizar e aplicar o conhecimento adquirido em projetos práticos.
-
-<p align="left">
-    <a href="https://github.com/phguimaraesf">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/phguimaraesf?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/phguimaraesf?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/phguimaraesf?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+Eu adoro explorar novas ferramentas e linguagens para aprimorar minhas habilidades e enfrentar os desafios que surgem no caminho. Além disso, busco sempre aplicar o que aprendo em projetos práticos e no meu dia a dia.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🌐 **Me Encontre Aqui:**
 
-<img 
-    align="left" 
-    alt="Excel"
-    title="Excel" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftexcel/microsoftexcel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SQL"
-    title="SQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Power BI"
-    title="Power BI" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python"
-    title="Python" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git"
-    title="Git" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-guimar%C3%A3es-ferreira-b2b456381/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white)](https://github.com/phguimaraesf)
+[![Medium](https://img.shields.io/badge/Medium-Blog-yellow?logo=medium&logoColor=black)](https://medium.com/@phguimaraesf)
 
-<br/>
-<br/>
+---
 
-### 📊 Estatísticas
+### 🤖 **Tecnologias & Ferramentas**:
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=phguimaraesf&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<div style="display: flex; flex-wrap: wrap;">
+  <img align="left" alt="Excel" title="Excel" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoft/microsoft-original.svg" />
+  <img align="left" alt="SQL" title="SQL" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img align="left" alt="Power BI" title="Power BI" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" />
+  <img align="left" alt="Python" title="Python" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="left" alt="Git" title="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+</div>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=phguimaraesf&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<br />
 
-</p>
+---
+
+### 📊 **Estatísticas do GitHub**:
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=phguimaraesf&show_icons=true&count_private=true&hide_title=true&theme=tokyonight)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=phguimaraesf&layout=compact&langs_count=6&theme=tokyonight)
+
+---
+
+### 🚀 **Projetos Recentes**:
+
+🔗 **[Projeto de Análise de Dados com Python](https://github.com/phguimaraesf/projeto-python)**  
+🔗 **[Dashboard Interativo no Power BI](https://github.com/phguimaraesf/projeto-powerbi)**  
+🔗 **[Análise de Dados com SQL e Excel](https://github.com/phguimaraesf/projeto-sql-excel)**
+
+---
+
+### 🎯 **Objetivos de Estudo**:
+1. Aperfeiçoar habilidades em **Python** e **Data Science**.
+2. Criar **Dashboards** avançados usando **Power BI**.
+3. Explorar novos métodos de **análise preditiva** e **Machine Learning**.
+4. Aprender mais sobre **Big Data** e **análise em nuvem**.
+
+---
+
+### 🌱 **Fatos Curiosos Sobre Mim**:
+- 📚 Estou sempre buscando novas fontes de aprendizado, seja em blogs, cursos online ou livros.
+- 🧠 Acredito que dados são a nova moeda, e com eles podemos transformar o mundo!
+- 🎥 Adoro assistir tutoriais e vídeos sobre **análise de dados** e **tecnologias emergentes**.
+
+---
+
+**"A verdadeira magia da análise de dados é transformar números e informações em soluções reais."** - **Pedro Henrique**
+
+---
+
+### 📝 **Feedback**:
+Se você tiver alguma dúvida, sugestão ou gostaria de bater um papo sobre **dados**, **análise de dados** ou **tecnologias**, sinta-se à vontade para me enviar uma mensagem no **[LinkedIn](https://www.linkedin.com/in/pedro-henrique-guimar%C3%A3es-ferreira-b2b456381/)**!
+
+---
+
