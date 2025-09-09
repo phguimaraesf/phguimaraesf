@@ -33,7 +33,7 @@ Sou apaixonado por **dados** e como podemos extrair insights valiosos a partir d
     title="Excel" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoft/microsoft-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftexcel/microsoftexcel-original.svg" 
 />
 <img 
     align="left" 
